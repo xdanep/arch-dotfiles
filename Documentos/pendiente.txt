@@ -1,0 +1,9 @@
+Configurar zsh, alacritty, picom
+aprender a usar nvim, darle soporte de rust, c, python
+aprender a usar cmus
+lxappearance() {
+  cambiar iconos
+  cambiar tema nemo
+  cambiar cursor
+}
+configurar eww con sus scripts
