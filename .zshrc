@@ -76,7 +76,8 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 # User configuration
-
+# Ignore duplicate history
+setopt HIST_IGNORE_DUPS
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
